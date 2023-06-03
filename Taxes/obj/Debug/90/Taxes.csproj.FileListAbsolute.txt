@@ -1,0 +1,4 @@
+C:\Users\Aurelia\OneDrive\Pulpit\Studia\semestr 6\zaliczenie 2023\Taxes\Taxes\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Aurelia\OneDrive\Pulpit\Studia\semestr 6\zaliczenie 2023\Taxes\Taxes\obj\Debug\90\build.props
+C:\Users\Aurelia\OneDrive\Pulpit\Studia\semestr 6\zaliczenie 2023\Taxes\Taxes\obj\Debug\90\adb.props
+C:\Users\Aurelia\OneDrive\Pulpit\Studia\semestr 6\zaliczenie 2023\Taxes\Taxes\obj\Debug\90\Taxes.csprojAssemblyReference.cache
